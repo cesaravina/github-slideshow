@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**"I WAS IN THE FUTURE!! IT WAS TOO LATE TO RSVP!"**
 Use the left arrow to go back!
